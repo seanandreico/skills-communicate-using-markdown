@@ -11,5 +11,7 @@ function addNumbers(var1, var2){
   return result;
 }
 ```
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
